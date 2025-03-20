@@ -6,4 +6,5 @@ Hi! I'm Marcus, and I like *really* like music. So, I'm creating Flowr to addres
 Though there are many other issues, these are the current problems I hope to solve with Flowr. I could go into more detail about how Flowr's infrastructure will solve these issues, but to be honest its changing day-by-day as I talk to small artists, producers, and read deeper into the subject matter. For now, here are links to the relevant repositories if you are interested!
 
 [flowr svelte frontend](https://github.com/marcusnglee/sv-flowr-frontend)
+
 [flowr on-chain smart contracts](https://github.com/marcusnglee/flowr-smart-contract)
